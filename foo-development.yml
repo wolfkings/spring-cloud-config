@@ -1,6 +1,6 @@
 bar: 梁慧,我爱你，我恨你，我草你
 server:
-  port: 9093
+  port: 9091
 logging:
   level:
     root: INFO
